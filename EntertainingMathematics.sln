@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainingMathematics.Plugins", "EntertainingMathematics.Plugins.csproj", "{CF0CD13D-E082-29E0-3AEB-6993792FC1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainingMathematics", "EntertainingMathematics.csproj", "{06E19EC3-EC8C-25C6-777C-8C2066CF2DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainingMathematics.Editor.Plugins", "EntertainingMathematics.Editor.Plugins.csproj", "{7E5ED230-182A-CA88-833A-41FAD8A81534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0CD13D-E082-29E0-3AEB-6993792FC1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0CD13D-E082-29E0-3AEB-6993792FC1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0CD13D-E082-29E0-3AEB-6993792FC1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0CD13D-E082-29E0-3AEB-6993792FC1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E19EC3-EC8C-25C6-777C-8C2066CF2DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E19EC3-EC8C-25C6-777C-8C2066CF2DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E19EC3-EC8C-25C6-777C-8C2066CF2DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E19EC3-EC8C-25C6-777C-8C2066CF2DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5ED230-182A-CA88-833A-41FAD8A81534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5ED230-182A-CA88-833A-41FAD8A81534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5ED230-182A-CA88-833A-41FAD8A81534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5ED230-182A-CA88-833A-41FAD8A81534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
